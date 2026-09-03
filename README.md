@@ -67,7 +67,7 @@ I am continuously building hands-on projects to demonstrate my technical knowled
 
 | Skill                        | Project                                                                                |
 | ---------------------------- | -------------------------------------------------------------------------------------- |
-| Linux Command Line           | [Linux Security Lab](https://github.com/tinuolarachel24-ai/Linux-cli-commands.git)       |
+| Linux Command Line           | [Linux Security Lab](https://github.com/tinuolarachel24-ai/Linux-cli-commands.git)     |
 | File & Directory Management  | [Linux CLI Practice](https://github.com/YOUR-GITHUB-USERNAME/linux-cli-practic)       |
 | User & Permission Management | [Linux Permissions Lab](https://github.com/YOUR-GITHUB-USERNAME/linux-permissions)     |
 | Bash                         | [Bash Security Scripts](https://github.com/YOUR-GITHUB-USERNAME/bash-security-scripts) |
